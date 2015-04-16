@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9B9317B5-66A6-4233-B074-D59650A277B8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Struct</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2BDF98112FF49C99E4FCE7FC6889FD4E12293774</key>
+		<string>https://github.com/alfianlosari/SwiftPlayground.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Struct.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2BDF98112FF49C99E4FCE7FC6889FD4E12293774</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alfianlosari/SwiftPlayground.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2BDF98112FF49C99E4FCE7FC6889FD4E12293774</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2BDF98112FF49C99E4FCE7FC6889FD4E12293774</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Intermediate%20Swift%20Series</string>
+		</dict>
+	</array>
+</dict>
+</plist>
